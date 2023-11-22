@@ -1,2 +1,2 @@
-# NewsHub
-News Web Application
+# News Web Application
+NewsHub
